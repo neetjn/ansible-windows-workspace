@@ -1,3 +1,3 @@
-choco install 7zip
-choco install ccleaner
-choco install firefox
+choco install -y 7zip
+choco install -y ccleaner
+choco install -y firefox
