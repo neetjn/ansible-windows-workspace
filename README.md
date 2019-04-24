@@ -32,6 +32,7 @@ This project provides the following software and configurations:
 
 #### Development
 
+* Python 2.7 and 3.7
 * Docker (cli + desktop)
 * Visual Studio Code (including extensions)
 * GHidra
