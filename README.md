@@ -29,6 +29,7 @@ This project provides the following software and configurations:
 * 7zip
 * Firefox
 * CCleaner
+* Gyazo
 
 #### Development
 
